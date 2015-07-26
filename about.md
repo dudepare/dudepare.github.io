@@ -3,13 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi! I am **Andrew Artajos**.
 
-Some information about you!
+I am a software developer based in Melbourne, Australia.
 
-### More Information
+My previous work with ITRS Group involved C/C++ coding on real time monitoring software Geneos. I've used Python to do scripting work to implement extension plugins for Geneos.
 
-A place to include any other types of information that you'd like to include about yourself.
+Now, I studying Django the web framework for Python in MelbDjango school conducted by Common Code.
+
+### Elsewhere
+
+* [I play with code](http://github.com/dudepare)
+* [I love watches](http://instagram.com/andrewartajos) 
+* [I hangout on twitter](https://twitter.com/andrewartajos) 
+* [I write about random stuff](http://andoy.me)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andrew.artajos@gmail.com](mailto:andrew.artajos@gmail.com)
