@@ -14,6 +14,7 @@ I made a few tweaks to suit my needs and uploaded it to my github blog. Thank yo
 
 # Changes
 Here's a list of the changes I've made:
+
 * title's font to Google Fonts' Open Sans 
 * changed font color of the title
 * body copy is in Merriweather
