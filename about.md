@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 Hi! I am **Andrew Artajos**.
 
 I am a software developer based in Melbourne, Australia.
@@ -21,3 +22,6 @@ Now, I studying Django the web framework for Python in MelbDjango school conduct
 ### Contact me
 
 [andrew.artajos@gmail.com](mailto:andrew.artajos@gmail.com)
+
+### Art Work by Erin Artajos
+![erin's drawing](/images/dudepare.jpg)

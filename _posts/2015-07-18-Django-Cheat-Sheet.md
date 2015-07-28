@@ -52,5 +52,10 @@ Make sure your virtualenv is activated
 # Run django project
 `$ python manage.py runserver`
 
+# Create a Django App
+`$ ./manage.py startapp <appname>`
+
+
+
 #### Note to self
 Update this cheat sheet as the course progresses. This is an investment that will pay dividends in the long haul.
