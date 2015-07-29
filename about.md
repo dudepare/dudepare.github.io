@@ -3,14 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<p style="text-align: center;">
+<img src="/images/lara.sun.inked.png" alt="artwork painstakingly made by Lara Artajos" width="400" height="400" >
+</p>
 Hi! I am **Andrew Artajos**.
 
-I am a software developer based in Melbourne, Australia.
+I am a software developer based in sunny Melbourne, Australia.
 
 My previous work with ITRS Group involved C/C++ coding on real time monitoring software Geneos. I've used Python to do scripting work to implement extension plugins for Geneos.
 
 Now, I studying Django the web framework for Python in MelbDjango school conducted by Common Code.
+
+*The illustration above is made by my daughter Lara. Everybody, I want to introduce you to Mr. Sun.*
 
 ### Elsewhere
 
@@ -21,7 +25,4 @@ Now, I studying Django the web framework for Python in MelbDjango school conduct
 
 ### Contact me
 
-[andrew.artajos@gmail.com](mailto:andrew.artajos@gmail.com)
-
-### Art Work by Erin Artajos
-![erin's drawing](/images/dudepare.jpg)
+[@andrewartajos](https://twitter.com/andrewartajos)
