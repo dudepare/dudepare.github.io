@@ -40,3 +40,9 @@ While iterating through a dictionary is somewhat the same. The absence of the pa
     {% endraw %}
 
 > Knowing how to iterate through a dictionary in Django Template Language was very vital information for me to finish my homework in lesson three.
+
+# Best practices
+Later on, I found out dictionaries are not recommended to be used in templates because they are unordered. It is better to use list of lists with two elements. The first one being the key and the second one being the value.
+
+*e.g.*
+`[[[key1], [value1, value2, value3]], [[key2], [value1, value2, value3]] ]`
