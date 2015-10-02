@@ -12,7 +12,7 @@ I am a software developer based in sunny Melbourne, Australia.
 
 My previous work with ITRS Group involved C/C++ coding on real time monitoring software Geneos. I've used Python to do scripting work to implement extension plugins for Geneos.
 
-Now, I studying Django the web framework for Python in MelbDjango school conducted by Common Code.
+I finished the course on Django the web framework for Python in MelbDjango school conducted by Common Code. Here's my final project deployed on Heroku: Introducing [JobOverflow](http://frozen-river-3647.herokuapp.com/)
 
 *The illustration above is made by my daughter Lara. Everybody, I want to introduce you to Mr. Sun.*
 
