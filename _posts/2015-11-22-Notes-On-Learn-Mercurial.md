@@ -4,6 +4,13 @@ layout: post
 
 My goal today is [learn Mercurial](https://www.mercurial-scm.org/wiki/TutorialClone). 
 
+# Discard all local changes
+* revert all the files back to their original state
+
+	hg pull
+	hg update -r default -C
+
+
 `hg summary`
 
 see which revision is currently checked out.
