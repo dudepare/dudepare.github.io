@@ -21,7 +21,6 @@ I finished the course on Django the web framework for Python in MelbDjango schoo
 * [I play with code](http://github.com/dudepare)
 * [I love watches](http://instagram.com/andrewartajos) 
 * [I hangout on twitter](https://twitter.com/andrewartajos) 
-* [I write about random stuff](http://andoy.me)
 
 ### Contact me
 
