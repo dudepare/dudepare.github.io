@@ -18,4 +18,4 @@ I have this video downloaded and saved in my phone to teach myself the basics of
 
 These are fairly straight forward goals that this video help answer.
 
-Good job to the presenter of this. It makes me crave for cookies as well. 
+Good job to the presenter. It makes me crave for cookies as well. 
