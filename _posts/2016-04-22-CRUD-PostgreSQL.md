@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CRUD PostgreSQL"
+title:  CRUD PostgreSQL
 date:   2016-04-22
 categories: programming
 ---
