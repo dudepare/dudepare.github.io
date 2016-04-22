@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "CRUD PostgreSQL"
+date:   2016-04-22
+categories: programming
+---
+
 I've been working my way around postgresql lately. I am getting tired of Googling for every CRUD command in postgres. 
 
 I don't have the muscle memory for these SQL commands specially done the Postgres way. Just to make it faster, I'm putting them here for easy access.
