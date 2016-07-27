@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Self education
-date:   2016-05-03
+date:   2016-07-27
 categories: programming
 ---
 
