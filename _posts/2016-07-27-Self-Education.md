@@ -12,4 +12,4 @@ I am a long time mediocre programmer. Now that I migrated into a first world cou
 1. Test Driven Development with Python
 2. Cracking the Coding Interview
 
-These books will be my bestfriend for the remaining months of 2016. I want to achieve mastery for both topics. When I attained that, I will be ready for my new job that pays well. That's the goal. 
+These books will be my bestfriend for the remaining months of 2016. I want to achieve mastery for both topics. When I attain that, I will be ready for my new job that pays well. That's the goal. 
