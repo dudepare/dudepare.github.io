@@ -7,8 +7,8 @@ category: programming
 
     sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30
 
-
 I am working on a Pyramid web app. A new team member is setting up his development environment when this error occurred. Of course I have been working on this web app for a good number of months now. I haven't encountered this error on my machine and in production. 
+
 The first instinct is to go on to Stack Overflow and search for the exact error. I found this [article](http://stackoverflow.com/questions/3360951/sql-alchemy-connection-time-out). So I looked at the code and searched for any sessions that needed closing. I found some but I asked first on the IRC channel #sqlalchemy on freenode if those sessions needed to be closed. Apparently not. 
 
 The day ended with the error still left unsolved.
